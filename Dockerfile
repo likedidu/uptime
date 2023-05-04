@@ -1,5 +1,5 @@
 FROM louislam/uptime-kuma:latest
 
-ENV PORT=30001
+ENV PORT=3001
 
-EXPOSE 30001
+EXPOSE 3001
